@@ -1,0 +1,10 @@
+[package]
+name = "mirath-rs-awl-proportional-scale"
+version = "1.0.0"
+edition = "2021"
+description = "Al-Awl Fractional Overflow Base Denominator Escalator (6->7..10, 12->13..17, 24->27)"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "mirath_rs_awl_proportional_scale"
+path = "main.rs"
